@@ -10,3 +10,5 @@ Avoid ghost and soldier.
 Collect as many coins as you can.
 There's different background music for each level, and sound effects for pickups and collisions.
 Includes a GUI to Pause, Restart and Quit the game.
+
+Finished on 13/04/2020.
