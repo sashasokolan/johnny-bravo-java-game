@@ -1,4 +1,4 @@
-# JavaGame
+# johnny-bravo-java-game
 Java platform game built using the city.cs.engine library.
 
 Move character with 
