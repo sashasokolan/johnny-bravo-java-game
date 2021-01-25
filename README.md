@@ -8,4 +8,4 @@ SPACE = jump.
 
 Avoid ghost and soldier.
 Collect as many coins as you can.
-There's a different background music for each level, and sound effects for all pickups and collisions.
+There's different background music for each level, and sound effects for pickups and collisions.
