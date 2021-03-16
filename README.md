@@ -1,5 +1,5 @@
 # johnny-bravo-java-game
-Java 2D platformer game built using the city.cs.engine library.
+Multi-level Java 2D platform game built using the city.cs.engine library.
 
 Move character with 
 A = left; 
